@@ -1,0 +1,7 @@
+3,2009-11-11,5,2010-05-01,kangouroux australien,jeff,male,oui,non,1,2,1,australie
+3,2011-02-02,5,2012-06-06,kangouroux australien,my name is,male,oui,non,1,2,australie
+
+
+
+
+groupeSocial,dateNaissance,nbNourritureJourKg,dateArrive,especes,nomAnimal,genreAnimal,isExotique,isDomestique,nbEmployeeDesigner,frequenceNourriture,nbEnclosDesigner,lieuNaissance
